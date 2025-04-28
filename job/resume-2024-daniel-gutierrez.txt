@@ -1,0 +1,310 @@
+
+Daniel Gutierrez 
+831-234-0077
+Daniel_Gutierrez_99@yahoo.com 
+
+I have 39 years of experience supporting Unix/Linux operating systems, networks, and their associated enterprise applications in both physical and virtual infrastructures, including data center(bare-metal), VMware, Openstack, AWS, GCP.
+ 
+Advanced experience in configuring and diagnosing complicated configurations while specializing in automation, configuration management, disaster recovery and high availability systems. 
+
+For the last 4.8 years I have been a Senior Site Reliability Engineer in the Retail Interactive division at Apple Inc. 
+
+Below is a comprehensive description of the various roles I have performed during my career. 
+
+--------------------------------
+Apple Inc. 2019 - Present
+Senior Site Reliability Engineer
+
+Worked in Apples Retail Infrastructure Team managing the development, deployment, and support for all infrastructure elements related to Apples retail stores and supporting engineering divisions. Directly responsible for developing and supporting all application stacks for Apples Retail Interactive division. Participated in on-call rotation for 24x7 support.
+
+Utilized my extensive automation development experience to build and deploy new process automation tools and procedures to create automation which could easily manage the entire infrastructure and perform fleet wide processes such as OS updates, configuration management, system query, inventory, reporting, remediation and more.
+
+Created graphical dashboards and custom observability plugins to better monitor and manage all infrastructure components, including Nvidia-smi observability thru a Telegraf->InfluxDB->Grafana stack. 
+
+Introduced, deployed and managed Pagerduty Rundeck Enterprise Automation product. This project included:
+
+Developed configuration management code(Chef) to deploy and manage a high availability Rundeck Automation cluster for division wide use.
+Created self-service portals for external teams to perform system and service operations, repetitive workflows, software deployments, reporting, etc..
+Created many internal jobs to automate a wide variety of procedures/workflows, configuration management, reporting, deployments, etc..
+Much more… 
+
+
+Developed upgraded configuration management code(Chef) to perform OS and Application upgrades on video wall appliances in all Apple stores. 
+These are on-prem appliance servers using Redhat 8, Nvidia GPU, Apple custom video wall application and are used to drive the large video walls in stores. Developed single click automation to deploy upgraded OS and application code to video wall servers in all stores world wide, including:
+
+OS ISO image distribution.
+Complete automated configuration management of appliance including Nvidia and Magewell drivers.
+Automated communications of status and completion to all stakeholders.
+Automated system validation
+Learned a lot about GDM/X11/xorg configuration in relation to video GPU/Controllers. 
+Full documentation of all procedures for staff to follow while performing the GEO based upgrades. 
+
+Deployed upgraded Chef infrastructure servers and software and migrated all data.
+ 
+Deployed upgraded Aspera Faspex infrastructure servers and migrated all data used for Apples video distribution system. 
+
+Utilized my advanced experience with Chef to introduced much improved practices in configuration management development and heavily participated in the cookbook redevelopment effort that resulted.
+
+Created and documented new infrastructure wide naming conventions to facilitate automation and consistency across multiple different architectures, tools, and teams and participated in it implementations.
+
+Much more..
+
+Technologies used daily:
+
+ Nvidia GPU driven video wall appliance servers
+ GIT
+ VMWare
+ Sensu
+ Chef
+ Rundeck
+ Netapp
+ Telegraph
+ Influxdb
+ Graphana
+ More…
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------
+Anaplan 2017 - 2019
+Senior Site Reliability Engineer
+
+  Anaplan provides a SAS platform for advanced data modeling for companies large and small and includes many fortune 50 customers in their customer base. The SAS platform is hosted in several data centers in both US and Europe. As Senior Site Reliability Engineer I was responsible for: 
+ 
+* Deploying replica environments for complete SAS stack
+* Deploying software updates to Production environments
+* On-call duties in rotation to ensure maximum system uptime  
+* Created automation to build disaster recovery platforms using Terraform/AWS.
+* Create automation to perform various job functions such as system orchestration, data backups, etc. 
+* Create Configuration Management objects like Chef cookbooks, Terraform plans, etc.
+* Create AWS based infrastructure for DEV, TST, QA, DR, etc.
+* Create monitoring dashboards in SignalFx and deploy monitoring clients to Kubernetes pods
+* Train junior engineers on all of the above. 
+
+Technologies used daily:
+
+* Chef
+* Terraform
+* Kubernetes
+* Helm
+ SignalFx	
+ GIT
+* Linux
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------
+Walmart eCommerce 2013 – 2017
+Senior Developer, Automation
+
+Enterprise Support:
+* Administer the automation hardware and software infrastructure providing enterprise wide automation and configuration management for  
+  Walmarts eCommerce operation numbering thousands of servers across many geographically separated data centers.
+* Create scripts/code to facilitate system and workflow automation. Developed Chef cookbooks and Puppet modules for configuration
+  management of general and PCI compliant infrastructure. 
+* Deployed Puppet Enterprise to facilitate PCI File Integrity Monitoring for our frontend payment/fraud processing systems. 
+* Developed a custom portal for managing requests, configuration, approvals, deployments, and reporting of all NoSQL clusters, 
+  including baremetal and Docker in CI/CD fashion.
+* Created dashboards to monitor all critical applications, including network appliances. 
+* Administer Github Enterprise appliance
+
+Technologies used daily:
+
+Workflow Automation Infrastructure:
+* Rundeck, Bladelogic.
+Configuration Management Automation:
+* Chef, Puppet, Ansible.
+CI/CD and SCM:
+* Jenkins, GIT, SVN, CVS, Nexus.
+Monitoring:
+*Sensu, Graphite, Grafana, Nagios, Collectd.
+Database:
+* Oracle, MySQL, Postgresql, OrientDB. 
+HA/DR:
+* DRBD, Heartbeatd, custom NFS based data centralization
+
+Project/program management:
+* Conducted outreach programs to all internal teams to determine/satisfy automation and monitoring requirements.
+  Created cookbook management standards for infrastructure.  
+* Managed off-shore team to keep programs moving 24x7. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------
+University of California at Santa Cruz, 2007 - 2013
+Programmer/Analyst III – Release Manager
+
+Enterprise Support:
+* Administer PeopleSoft applications including: Campus Solutions, Enterprise Portal, and HRMS.  Responsible for all application 
+  design, deployment, maintenance, support, and upgrades. 
+* Maintained all application instances including DMO, DEV, TST, QA, and Production. 
+* Planned and performed all Peoplesoft software upgrades.
+
+Monitoring:
+* NAGIOS and Shinken monitoring was used on all Windows, Linux, and Solaris systems. 
+
+Build and Code Management:
+* Maintain and execute make files for compilation of programs. Administered the CVS/SVN/GIT source code repositories for all
+  applications. 
+
+Test: 
+* Perform system test and QA after application upgrades. 
+* Perform annual load tests on complete application stack. 
+* Built a large custom test harness to perform all system testing. 
+* Developed functional and load tests using Jmeter. 
+* Developed SQL specific tests in Jmeter to test database performance. 
+* Developed functional application tests using Peopletools Test Framework. 
+
+Enterprise Architecture:
+* Designed NAS based infrastructure centralizing all application and configuration management code and reference files utilizing NFS.
+  Eliminated code duplication across our multiple servers. Streamlined configuration management work and dramatically reduced backup
+  costs. 
+* Supported secondary applications including process automation, test software, JDK, Weblogic servers, Tuxedo, and Windows 
+  Client/Server software. 
+* Developed several script based solutions for build and release procedures and performing regular process monitoring and application
+  replication and reconfiguration. 
+
+Hardware and Operating Systems: 
+* Application Server platforms included both Solaris SPARC/64 and NetApp NAS storage and Red Hat Linux on virtual X86 platforms.
+
+
+
+
+
+
+
+
+--------------------------------
+The SCO Group, Inc., 1989 – 2006
+The SCO Group is a firm selling UNIX and LINUX operating systems and application software.   
+
+Support Product Manager:
+* Responsible for writing support agreements between SCO UNIX and 3rd party partners. Maintain support relationships and coordinate 
+  training of engineers in partner products. Work with engineering and physical production teams to plan and implement finished products
+  for market. Create technical documentation to accompany media kits. Develop Product Support Plans for every product detailing all
+  aspects of the ongoing support and release of new product versions. Evaluate 3rd party products for applicability and quality to fit
+  our overall product strategy.  
+  
+Major Accounts Support Engineer:
+* Assigned several of the SCO Groups largest UNIX customers and provided them with the highest level of service under contract 
+  including 24/7 support.
+
+Professional Services Engineer:
+* Designed JAVA mobile business application user interfaces based on customer requirements. Developed applications using MIDP 
+  libraries in Eclipse IDE. Presented prototype application to customers for approval. 
+
+Escalations Manager:
+* Managed the flow of high priority problems to Engineering. Provided customers with regular updates on problem resolution status.
+  Packaged resulting fixes into installable operating system packages. 
+
+Curriculum Developer:
+* Maintain SCO Unix and Unixware official curriculum and certification examinations utilizing the services of Prometric, including:
+*   SCO UnixWare System Administration I, II, Network Administration.
+*   SCO OpenServer System Administration I, II, Network Administration.
+*   SCOOffice Mail Server 4 Administration
+	 
+Support Team Manager:
+* Manage a team of 8 Support Engineers varying from Level I thru III.
+* Create management reports showing call trends and problem types to feed into development.
+* Create cross training programs across all Engineer Levels.
+* Interface between Customer Service and Senior management to define call flow and service policies. 
+
+Support Engineer IV:
+* Mentor and train junior engineers on SCOs wide range of UNIX products. 
+* Develop and maintain materials used in training support engineers. 
+* Support high availability systems and disaster recovery products including Compaq NSC and Reliant HA. 
+
+Support Engineer III:
+* Specialized on IBM hardware relationship management with IBM hardware representative.
+
+Support Engineer II:
+Support Engineer I: 
+
+--------------------------------
+Selective Software, 1986 – 1989
+
+Selective Software was a direct marketing firm selling DOS/Windows based applications.
+
+Technical Support Manager
+* Supervise a staff of 3 support engineers.
+* Provide IT support for internal Novell network and order processing system. 
+* Maintained email, database, and backup and recovery systems.
+ 
+
+Technology skills (not a full list): 
+
+Operating systems: 
+* Unix: Openserver, UnixWare, BSD, AIX, HP-UX, MAC OSX.
+* Linux: Red Hat, Centos, Oracle Linux, Ubuntu, SuSe.
+* Windows: Server 2008 and earlier.
+
+Misc tools: 
+* LDAP, Active Directory, DHCP, DNS, Postfix, Sendmail, Confluence, Jira, Sakai, LMS, NFS, SAN/NAS, Veritas Volume Manager, 
+  ARCServe backup, Weblogic, Apache, Nginx, SOA, XML, HTML, CSS, JAVA, Tomcat, Tuxedo.
+
+Automation tools:
+* Bladelogic, Rundeck.
+
+Database tools:
+* MySQL, Oracle DB, OrientDB, Postgresql, SQL, SQR.
+
+Monitoring tools:
+* Nagios, Sensu, SignalFx, Graphite, Grafana, ELK.
+
+Configuration Management:
+* Chef, Puppet, Ansible, Jenkins, Kubernetes.
+
+Source Control:  
+* CVS, SVN, GIT, GNUmake, Bugzilla.
+
+Scripting and development: 
+* Perl, PHP, BASH, sed, awk, C, MIDP, Ruby. 
+
+Enterprise applications: 
+* PeopleSoft Campus Solutions, HRMS, Enterprise Portal, PeopleTools
+* Cognos, Autosys, Arcserve backup, Non-Stop Clusters, Reliant-HA. 
+
+Testing applications: 
+Jmeter, Peoplesoft Test Framework, Selenium.
+
+Publishing Applications: 
+* Framemaker, Xmetal, Visio, Powerpoint, Hannon Hill Cascade Server.  
+
+
